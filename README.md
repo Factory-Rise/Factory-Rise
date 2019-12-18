@@ -6,3 +6,6 @@ Factory Rise is still a in-development game, it's alpha versions will be posted 
 
 # Beta and alpha testing
 To sign up for the beta testing of the game, please apply to this [form](https://forms.gle/Cg5UsBKvLPje3o1y9), a few people will be selected from there to test the early stages of the alpha and beta version of the game, before it publicly be launched here.
+
+# Discord server
+Coming soon :)
