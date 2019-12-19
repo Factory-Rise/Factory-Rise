@@ -8,6 +8,7 @@ Factory Rise is still a in-development game, it's alpha versions will be posted 
 To sign up for the beta testing of the game, please apply to this [form](https://forms.gle/Cg5UsBKvLPje3o1y9), a few people will be selected from there to test the early stages of the alpha and beta version of the game, before it publicly be launched here, the release testing will be within 3 weeks, where the selected people for this version will download and report to the developers, after this period, the release will be published here.
 
 # Alpha testing
+List of people signed for the alpha divided by version range.
 #### 0.1.0-alpha to 0.5.0-alpha
     1. marimo#3367
     2. Godzilaa4#4444
