@@ -1,0 +1,6 @@
+0.1.0-alpha
++ Player movement
++ World generation
++ Player animation
++ Basic physics
++ Basic world interaction
