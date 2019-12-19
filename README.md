@@ -5,6 +5,7 @@ Factory Rise is a 2D sandbox game, focused on building, developing industries an
 Factory Rise is still a in-development game, it's alpha versions will be posted here. Please standby and support the project.
 
 # Beta and alpha testing
+<<<<<<< HEAD
 To sign up for the beta testing of the game, please apply to this [form](https://forms.gle/Cg5UsBKvLPje3o1y9), a few people will be selected from there to test the early stages of the alpha and beta version of the game, before it publicly be launched here, the release testing will be within 3 weeks, where the selected people for this version will download and report to the developers, after this period, the release will be published here.
 
 # Alpha testing
@@ -21,6 +22,9 @@ Not yet :)
 
 # Change logs
 You can see version information [here](/changelog.txt/)
+=======
+To sign up for the beta testing of the game, please apply to this [form](https://forms.gle/Cg5UsBKvLPje3o1y9), a few people will be selected from there to test the early stages of the alpha and beta version of the game, before it publicly be launched here.
+>>>>>>> e847f3c7f0694919596f96f722e045bce3b2187f
 
 # Discord server
 Coming soon :)
