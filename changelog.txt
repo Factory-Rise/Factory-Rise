@@ -3,3 +3,10 @@
 + World generation
 + Player animation
 + Basic world interaction
+
+0.1.1-alpha
++ Improved cpu usage
++ Fixed reach
+- Bottom and right borders of the world crashing the game
+- Unfocused window high usage
+- Unfocused window game still running
