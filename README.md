@@ -1,5 +1,5 @@
 # Factory Rise
-Factory Rise is a 2D sandbox game, focused on building, developing industries and handling resources. The game is based on Oxygen Not Included, Terraria, Factorio and some Minecraft mods (EnderIO, Industrial Craft, BuildCraft, GregTech and Thermal Expansion). The game's source code is private, but you can download it's releases for free in this repository and also open issues and pull requests to it's documentation, which is stored here.
+Factory Rise is a 2D sandbox game, focused on building, developing industries and handling resources. The game is based on Oxygen Not Included, Terraria, Factorio and some Minecraft mods (EnderIO, Industrial Craft, BuildCraft, GregTech and Thermal Expansion), it also have a game progress similar to StarBound. The game's source code is private, but you can download it's releases for free in this repository and also open issues and pull requests to it's documentation, which is stored here.
 
 # Development
 Factory Rise is still a in-development game, it's alpha versions will be posted here. Please standby and support the project.
