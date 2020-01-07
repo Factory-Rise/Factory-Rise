@@ -27,7 +27,7 @@ List of people signed for the alpha, that tried to help it and leaved the team f
 Not yet :)
 
 # Change logs
-You can see version information [here](/changelog.txt/)
+You can see version information [here](/CHANGELOG.MD/)
 
 # Discord server
 Coming soon :)
