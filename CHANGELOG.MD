@@ -29,6 +29,7 @@ Bug fixes and improvements.
 The world generation update.
 
 - Private release (31/01/2020)
+- Public release (26/02/2020)
 
 #### World
 ```
